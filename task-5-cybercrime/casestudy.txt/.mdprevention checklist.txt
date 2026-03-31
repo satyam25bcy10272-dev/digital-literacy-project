@@ -1,0 +1,21 @@
+Part A: Case Study 
+
+UPI (Unified Payments Interface) fraud is one of the most common cybercrimes affecting students and the general public in India. In a typical case, a fraudster contacts the victim through a phone call, SMS, or social media, pretending to be a bank official, customer care executive, or even a known contact. They often create urgency by saying that the victim’s bank account will be blocked or that a refund is pending.
+
+The fraudster then sends a payment request or a malicious link and asks the victim to approve it or enter sensitive details such as OTP, UPI PIN, or card information. Many users mistakenly believe they are receiving money, but in reality, they are authorizing a payment. Once the victim enters the PIN, the money is instantly transferred to the scammer’s account.
+
+Students and elderly people are common targets due to lack of awareness. The consequences include financial loss, stress, and difficulty in recovering the money. In most cases, victims realize the fraud only after the transaction is completed, making it hard to reverse.
+
+This type of fraud highlights the importance of digital awareness and cautious behavior while using online payment platforms.
+
+🛡️ Part B: Prevention Checklist 
+
+“Stay Safe Online” Checklist:
+Never share your UPI PIN, OTP, or bank details with anyone
+Do not approve unknown payment requests (you send money, not receive)
+Always verify calls claiming to be from banks or officials
+Avoid clicking on suspicious links or downloading unknown apps
+Enable app lock and two-factor authentication on payment apps
+Regularly check your bank transaction history
+Use only trusted and official apps for payments
+Immediately report fraud on cybercrime.gov.in or call Helpline 1930
